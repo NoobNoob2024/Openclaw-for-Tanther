@@ -50,7 +50,7 @@ Runtime: `Node >=22`.
 Current source install flow:
 
 ```bash
-git clone <personal-homepage-repository-url> tantherclaw
+git clone https://github.com/NoobNoob2024/Openclaw-for-Tanther.git tantherclaw
 cd tantherclaw
 
 pnpm install

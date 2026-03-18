@@ -40,7 +40,7 @@ Runtime: **Node >=22**.
 This fork currently expects a Tanther checkout from the same personal homepage repository.
 
 ```bash
-git clone <personal-homepage-repository-url> tantherclaw
+git clone https://github.com/NoobNoob2024/Openclaw-for-Tanther.git tantherclaw
 cd tantherclaw
 
 pnpm install
